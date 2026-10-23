@@ -1,14 +1,6 @@
 # PyCraft
 
-PyCraft is a 2D sandbox game written in Python using Pygame.  
-It is built as a learning-focused sandbox and engine-style project, featuring
-procedural world generation, smooth camera movement, and multiple in-game
-systems such as commands, inventory management, and a day/night cycle.
-
-The game also includes a mini in-game terminal inspired by Linux-style command
-interfaces.
-
----
+PyCraft is a 2D sandbox game written in Python using Pygame (was one of my first ever projects hence the jank:) 
 
 ## Features
 
@@ -18,13 +10,11 @@ interfaces.
 - Player movement with gravity and jumping
 - Inventory system with hotbar
 - Block placement and destruction
-- TNT blocks with explosion effects
+- TNT blocks
 - Bow and arrow projectile system
-- Smooth camera scrolling
-- Parallax cloud system
 - Day / night cycle
 - In-game command system
-- Mini in-game terminal (Linux-style)
+- Mini in-game terminal
 - Command help overlay
 - Mini-map
 
