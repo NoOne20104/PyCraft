@@ -1,5 +1,4 @@
-# Made by Oscar Horrobin
-# GitHub: https://github.com/NoOne20104
+# Made by ME
 # ------------------ IMPORTS ------------------
 import pygame          # Pygame library for graphics, input, and game loop
 import sys             # System functions, like exiting the program
